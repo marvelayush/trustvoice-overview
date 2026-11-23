@@ -263,5 +263,6 @@ If you open the link without access, GitHub shows a "404 – page not found" err
 | Name | Email |
 |------|-------|
 | Ayush Narayan | [ayushnarayan870@gmail.com](mailto:ayushnarayan870@gmail.com) |
+| Mayank V Suvarna | [mayanknayank221@gmail.com](mailto:mayanknayank221@gmail.com) |
 
 Department of Information Science and Engineering, B.M.S. College of Engineering, Bengaluru.
